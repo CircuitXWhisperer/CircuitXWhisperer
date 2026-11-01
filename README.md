@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Hi, I'm Shreyash 👋
 
 ### AI & Data Science Student | Founder of ZeroBytes | Developer
